@@ -2,7 +2,7 @@
 
 After iPRES 2019 and with an eye on World Digital Preservation Day, we looked at ways we as a community to contribute to digital preservation efforts. We decided to focus on addressing gaps in PRONOM by organizing a PRONOM Research Week. During the week of 18-24 November, volunteers are encouraged to help with PRONOM’s research backlog. You can enhance documentation, supply sample files, or create a signature, among other things. 
 
-We’re posting the PRONOM research backlog in a GitHub repository, which will also be the central location to share sample files and submissions. We also kindly ask for people to sign up via this [Google spreadsheet](https://docs.google.com/spreadsheets/d/1KIbSJXSRZzDynoamzSbs_y592fmRFGLm0t2U5UHhdfA/edit#gid=0)], so that people can coordinate. We’ve also posted some resources here, which include blog entries and webinars to help people learn more and get started.  
+We’re posting the PRONOM research backlog in a GitHub repository, which will also be the central location to share sample files and submissions. We also kindly ask for people to sign up via this [Google spreadsheet](https://docs.google.com/spreadsheets/d/1KIbSJXSRZzDynoamzSbs_y592fmRFGLm0t2U5UHhdfA/edit#gid=0), so that people can coordinate. We’ve also posted some resources here, which include blog entries and webinars to help people learn more and get started.  
 
 # Resources
 
