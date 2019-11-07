@@ -1,8 +1,8 @@
 # PRONOM Research Week 2019
 
-Welcome to the GitHub repository for PRONOM Research Week 2019. This repository is a place to share your sample files and PRONOM submissions. 
+After iPRES 2019 and with an eye on World Digital Preservation Day, we looked at ways we as a community to contribute to digital preservation efforts. We decided to focus on addressing gaps in PRONOM by organizing a PRONOM Research Week. During the week of 18-24 November, volunteers are encouraged to help with PRONOM’s research backlog. You can enhance documentation, supply sample files, or create a signature, among other things. 
 
-The research week will run from November 18-24. We aim to release a PRONOM update in mid-December that will include submissions from the research week.
+We’re posting the PRONOM research backlog in a GitHub repository, which will also be the central location to share sample files and submissions. We also kindly ask for people to sign up via this Google spreadsheet[link needed], so that people can coordinate. We’ve also posted some resources here, which include blog entries and webinars to help people learn more and get started.  
 
 # Resources
 
