@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="334466" DateCreated="2019-11-17T23:13:59-07:00">
+  <InternalSignatureCollection>
+ 
+    <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="8" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>3344462E303030322030346465633931</Sequence>
+      <DefaultShift>17</DefaultShift>
+      <Shift Byte="33">16</Shift>
+      <Shift Byte="44">15</Shift>
+      <Shift Byte="46">14</Shift>
+      <Shift Byte="2E">13</Shift>
+      <Shift Byte="30">7</Shift>
+      <Shift Byte="32">9</Shift>
+      <Shift Byte="20">8</Shift>
+      <Shift Byte="34">6</Shift>
+      <Shift Byte="64">5</Shift>
+      <Shift Byte="65">4</Shift>
+      <Shift Byte="63">3</Shift>
+      <Shift Byte="39">2</Shift>
+      <Shift Byte="31">1</Shift>
+      <LeftFragment MaxOffset="4" MinOffset="4" Position="1">49492A00</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+  </InternalSignature>
+    
+    <InternalSignature ID="2" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="8" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>436F72656C43484152542056352E3000</Sequence>
+          <DefaultShift>17</DefaultShift>
+          <Shift Byte="43">11</Shift>
+          <Shift Byte="6F">15</Shift>
+          <Shift Byte="72">14</Shift>
+          <Shift Byte="65">13</Shift>
+          <Shift Byte="6C">12</Shift>
+          <Shift Byte="48">10</Shift>
+          <Shift Byte="41">9</Shift>
+          <Shift Byte="52">8</Shift>
+          <Shift Byte="54">7</Shift>
+          <Shift Byte="20">6</Shift>
+          <Shift Byte="56">5</Shift>
+          <Shift Byte="35">4</Shift>
+          <Shift Byte="2E">3</Shift>
+          <Shift Byte="30">2</Shift>
+          <Shift Byte="00">1</Shift>
+          <LeftFragment MaxOffset="4" MinOffset="4" Position="1">49492A00</LeftFragment>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    
+</InternalSignatureCollection>
+
+  <FileFormatCollection>
+    
+  <FileFormat ID="1" Name="CorelCHART document" PUID="CHLdev/1" Version="3.0" MIMEType="">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>cch</Extension>
+  </FileFormat>
+    
+    <FileFormat ID="2" Name="CorelCHART document" PUID="CHLdev/2" Version="5.0" MIMEType="">
+      <InternalSignatureID>2</InternalSignatureID>
+      <Extension>cch</Extension>
+    </FileFormat>
+    
+</FileFormatCollection></FFSignatureFile>
