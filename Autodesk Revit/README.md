@@ -22,3 +22,5 @@
 - CHLdev/30 Container format to catch RVT & RTE formats with changes made in 2019 changing syntax in "BasicFileInfo" signature
 - CHLdev/31 Container format to catch RFA & RFT formats with changes made in 2019 changing syntax in "BasicFileInfo" signature
 
+Note, most Revit files newer than 2008 have thumbnail file "RevitPreview4.0" which seems a great identifying file, but I found many samples which didn't have this file, which probably means a thumbnail wasn't generated for the file.
+
