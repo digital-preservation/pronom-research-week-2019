@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="443332" DateCreated="2019-11-19T07:00:00-07:00">
+  <InternalSignatureCollection>
+    
+    <InternalSignature ID="1" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>01FF020403</Sequence>
+          <DefaultShift>6</DefaultShift>
+          <Shift Byte="01">5</Shift>
+          <Shift Byte="FF">4</Shift>
+          <Shift Byte="02">3</Shift>
+          <Shift Byte="04">2</Shift>
+          <Shift Byte="03">1</Shift>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="1">00</RightFragment>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="1">01</RightFragment>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="1">02</RightFragment>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="2">0002</RightFragment>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    
+    <InternalSignature ID="2" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>01FF020403020002</Sequence>
+          <DefaultShift>9</DefaultShift>
+          <Shift Byte="01">8</Shift>
+          <Shift Byte="FF">7</Shift>
+          <Shift Byte="02">1</Shift>
+          <Shift Byte="04">5</Shift>
+          <Shift Byte="03">4</Shift>
+          <Shift Byte="00">2</Shift>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="1">00</RightFragment>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="1">02</RightFragment>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="2">022105</RightFragment>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    
+    <InternalSignature ID="3" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>01FF020403020002</Sequence>
+          <DefaultShift>9</DefaultShift>
+          <Shift Byte="01">8</Shift>
+          <Shift Byte="FF">7</Shift>
+          <Shift Byte="02">1</Shift>
+          <Shift Byte="04">5</Shift>
+          <Shift Byte="03">4</Shift>
+          <Shift Byte="00">2</Shift>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="1">00</RightFragment>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="1">02</RightFragment>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="2">022105</RightFragment>
+        </SubSequence>
+      </ByteSequence>
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="15" SubSeqMinOffset="15">
+          <Sequence>57696E646F777320447261772044726177696E67</Sequence>
+          <DefaultShift>21</DefaultShift>
+          <Shift Byte="57">20</Shift>
+          <Shift Byte="69">3</Shift>
+          <Shift Byte="6E">2</Shift>
+          <Shift Byte="64">17</Shift>
+          <Shift Byte="6F">16</Shift>
+          <Shift Byte="77">4</Shift>
+          <Shift Byte="73">14</Shift>
+          <Shift Byte="20">8</Shift>
+          <Shift Byte="44">7</Shift>
+          <Shift Byte="72">6</Shift>
+          <Shift Byte="61">5</Shift>
+          <Shift Byte="67">1</Shift>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    
+</InternalSignatureCollection>
+<FileFormatCollection>
+  
+  <FileFormat ID="1" Name="Micrografx Draw document" PUID="CHLdev/1" Version="2" MIMEType="">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>drw</Extension>
+  </FileFormat>
+  
+  <FileFormat ID="2" Name="Micrografx Draw document" PUID="CHLdev/2" Version="3" MIMEType="">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>drw</Extension>
+    <HasPriorityOverFileFormatID>1</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="3" Name="Micrografx Draw document" PUID="CHLdev/3" Version="4" MIMEType="">
+      <InternalSignatureID>3</InternalSignatureID>
+      <Extension>drw</Extension>
+      <Extension>drt</Extension>
+      <HasPriorityOverFileFormatID>1</HasPriorityOverFileFormatID>
+      <HasPriorityOverFileFormatID>2</HasPriorityOverFileFormatID>
+    </FileFormat>
+ 
+</FileFormatCollection></FFSignatureFile>

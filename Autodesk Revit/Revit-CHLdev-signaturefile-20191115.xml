@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="020210"> 
+    <ContainerSignatures>
+
+        <ContainerSignature Id="1000" ContainerType="OLE2">
+            <Description>AutoDesk Revit file</Description>
+            <Files>
+                <File>
+                    <Path>Formats</Path>
+                </File>
+                <File>
+                    <Path>Contents</Path>
+                </File>               
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="2000" ContainerType="OLE2">
+            <Description>AutoDesk Revit Project file</Description>
+            <Files>
+                <File>
+                    <Path>Formats</Path>
+                </File>
+                <File>
+                    <Path>BasicFileInfo</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                        <Sequence>52 00 65 00 76 00 69 00 74 00 20 00 42 00 75 00 69 00 6C 00 64 00 3A 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>               
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="2001" ContainerType="OLE2">
+            <Description>AutoDesk Revit Family file</Description>
+            <Files>
+                <File>
+                    <Path>Formats</Path>
+                </File>
+                <File>
+                    <Path>BasicFileInfo</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                        <Sequence>52 00 65 00 76 00 69 00 74 00 20 00 42 00 75 00 69 00 6C 00 64 00 3A 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+                <File>
+                    <Path>PartAtom</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                        <Sequence>22 61 70 70 6C 69 63 61 74 69 6F 6E 2F 72 66 61 22</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>  
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="2002" ContainerType="OLE2">
+            <Description>AutoDesk Revit Family file</Description>
+            <Files>
+                <File>
+                    <Path>Formats</Path>
+                </File>
+                <File>
+                    <Path>BasicFileInfo</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                        <Sequence>52 00 65 00 76 00 69 00 74 00 20 00 42 00 75 00 69 00 6C 00 64 00 3A 00</Sequence>
+                                    </SubSequence>
+                                        <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                            <Sequence>2E 00 72 00 66 00 61 00</Sequence>
+                                        </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>               
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3000" ContainerType="OLE2">
+            <Description>AutoDesk Revit Project file</Description>
+            <Files>
+                <File>
+                    <Path>Formats</Path>
+                </File>
+                <File>
+                    <Path>BasicFileInfo</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="EOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                        <Sequence>41 00 75 00 74 00 68 00 6F 00 72 00 3A 00 20 00 41 00 75 00 74 00 6F 00 64 00 65 00 73 00 6B 00 20 00 52 00 65 00 76 00 69 00 74 00 0D</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>               
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3001" ContainerType="OLE2">
+            <Description>AutoDesk Revit Family file</Description>
+            <Files>
+                <File>
+                    <Path>Formats</Path>
+                </File>
+                <File>
+                    <Path>BasicFileInfo</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="EOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                        <Sequence>41 00 75 00 74 00 68 00 6F 00 72 00 3A 00 20 00 41 00 75 00 74 00 6F 00 64 00 65 00 73 00 6B 00 20 00 52 00 65 00 76 00 69 00 74 00 0D</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>  
+                <File>
+                    <Path>PartAtom</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                        <Sequence>22 61 70 70 6C 69 63 61 74 69 6F 6E 2F 72 66 61 22</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>  
+            </Files>
+        </ContainerSignature>
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+    	<!--  Revit Container Files (OLE2)-->
+      <FileFormatMapping signatureId="1000" Puid="CHLdev/10"/>
+      <FileFormatMapping signatureId="2000" Puid="CHLdev/20"/>
+      <FileFormatMapping signatureId="2001" Puid="CHLdev/21"/>
+      <FileFormatMapping signatureId="2002" Puid="CHLdev/22"/>
+      <FileFormatMapping signatureId="3000" Puid="CHLdev/30"/>
+      <FileFormatMapping signatureId="3001" Puid="CHLdev/31"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>
