@@ -1,0 +1,35 @@
+Format Name:
+Tweet JSON
+
+Version Number:
+1(?)
+
+Extension:
+json
+
+MIME-Type:
+application/json
+
+Description:
+Tweet JSON represents the serialization of the JSON response payload of the Twitter API when requesting a single Tweet by id.
+
+Each Tweet has an author, a message, a unique ID, a timestamp of when it was posted, and sometimes geo metadata shared by the user.
+
+Each Tweet also has "entity" objects, which are arrays of common Tweet contents such as hashtags, mentions, media, and links. If there are links, the JSON payload can also provide metadata such as the fully unwound URL and the webpage’s title and description.
+
+In addition to the text content itself, a Tweet can have over 150 attributes associated with it.
+
+This JSON structure is documented at https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/intro-to-tweet-json
+
+Format Type:
+
+Vendor:
+Twitter
+https://about.twitter.com
+
+Example File Sources:
+All taken from curl requests to the Twitter API
+
+File Format identification signatures:
+See signature-file.xml with dummy PUID PRS-fmt/2.
+Three signatures are provided, one which matches the raw JSON string with no line breaks, one that matches a serialization with a new line at the end of the file in linux line-endings, and one that matches the same with a windows line-ending.  The signature assumes a starting "{" character, a terminating "}" and the JSON keys "id_str" and "retweeted". Although other JSON keys are used and could/should always be present, keys such as "full_text", "user" and "entities" seem overly generic.
