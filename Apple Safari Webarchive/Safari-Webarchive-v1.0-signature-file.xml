@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="464648" DateCreated="2019-11-22T15:27:34-07:00">
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="464649" DateCreated="2019-11-22T15:27:34-07:00">
   <InternalSignatureCollection>
     
     <InternalSignature ID="1345" Specificity="Specific">
@@ -19,36 +19,41 @@
       </ByteSequence>
     </InternalSignature>
     
-  <InternalSignature ID="1" Specificity="Specific">
-  <ByteSequence Reference="BOFoffset">
-    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
-      <Sequence>62706C6973743030</Sequence>
-      <DefaultShift>9</DefaultShift>
-      <Shift Byte="62">8</Shift>
-      <Shift Byte="70">7</Shift>
-      <Shift Byte="6C">6</Shift>
-      <Shift Byte="69">5</Shift>
-      <Shift Byte="73">4</Shift>
-      <Shift Byte="74">3</Shift>
-      <Shift Byte="30">1</Shift>
-    </SubSequence>
-  </ByteSequence>
-  <ByteSequence>
-    <SubSequence MinFragLength="0" Position="1" SubSeqMinOffset="0">
-      <Sequence>5765625375627265736F7572636573</Sequence>
-      <DefaultShift>16</DefaultShift>
-      <Shift Byte="57">15</Shift>
-      <Shift Byte="65">2</Shift>
-      <Shift Byte="62">10</Shift>
-      <Shift Byte="53">12</Shift>
-      <Shift Byte="75">5</Shift>
-      <Shift Byte="72">4</Shift>
-      <Shift Byte="73">1</Shift>
-      <Shift Byte="6F">6</Shift>
-      <Shift Byte="63">3</Shift>
-    </SubSequence>
-  </ByteSequence>
-</InternalSignature>
+    <InternalSignature ID="1" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>62706C6973743030</Sequence>
+          <DefaultShift>9</DefaultShift>
+          <Shift Byte="62">8</Shift>
+          <Shift Byte="70">7</Shift>
+          <Shift Byte="6C">6</Shift>
+          <Shift Byte="69">5</Shift>
+          <Shift Byte="73">4</Shift>
+          <Shift Byte="74">3</Shift>
+          <Shift Byte="30">1</Shift>
+        </SubSequence>
+      </ByteSequence>
+      <ByteSequence>
+        <SubSequence MinFragLength="0" Position="1" SubSeqMinOffset="0">
+          <Sequence>5765624D61696E5265736F75726365</Sequence>
+          <DefaultShift>16</DefaultShift>
+          <Shift Byte="57">15</Shift>
+          <Shift Byte="65">1</Shift>
+          <Shift Byte="62">13</Shift>
+          <Shift Byte="4D">12</Shift>
+          <Shift Byte="61">11</Shift>
+          <Shift Byte="69">10</Shift>
+          <Shift Byte="6E">9</Shift>
+          <Shift Byte="52">8</Shift>
+          <Shift Byte="73">6</Shift>
+          <Shift Byte="6F">5</Shift>
+          <Shift Byte="75">4</Shift>
+          <Shift Byte="72">3</Shift>
+          <Shift Byte="63">2</Shift>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    
 </InternalSignatureCollection>
 <FileFormatCollection>
   
