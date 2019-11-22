@@ -63,7 +63,7 @@
 </InternalSignature>
 </InternalSignatureCollection>
 <FileFormatCollection>
-  <FileFormat ID="1" Name="GL Transmission Format" PUID="x-fmt/1998" Version="1.0" MIMEType="application/json">
+  <FileFormat ID="1" Name="GL Transmission Format" PUID="PRS-fmt/1" Version="1.0" MIMEType="application/json">
     <InternalSignatureID>1</InternalSignatureID>
     <Extension>gltf</Extension>
   </FileFormat>
