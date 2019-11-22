@@ -31,4 +31,4 @@ valid_minimal.gltf - https://github.com/KhronosGroup/glTF-Validator/blob/master/
 invalid.gltf - https://github.com/KhronosGroup/glTF-Validator/blob/master/test/base/data/gltf/valid_ful.gltf ("version"'s value changed to "3.0")
 
 File Format identification signatures:
-See signature-file.xml with dummy PUID PRS-fmt/2
+See GLTF 2.0 signature.xml with dummy PUID PRS-fmt/2
