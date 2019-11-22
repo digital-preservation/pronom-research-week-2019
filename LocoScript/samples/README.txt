@@ -1,0 +1,1 @@
+Extensions denote LocoScript version or software used, e.g. *.410 = v4.10, AIL = Ailink
