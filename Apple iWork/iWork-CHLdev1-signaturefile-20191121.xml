@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="999143"> 
+    <ContainerSignatures>
+        
+        <ContainerSignature Id="21000" ContainerType="ZIP">
+            <Description>Apple iWorks Keynote 09</Description>
+            <Files>
+                <File>
+                    <Path>index.apxl</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="21000">
+                                <ByteSequence>
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="200">
+                                        <Sequence>'xmlns:key="http://developer.apple.com/namespaces/keynote2" key:version="92008102400"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="21010" ContainerType="ZIP">
+            <Description>iWork13</Description>
+            <Files>
+                <File>
+                    <Path>Metadata/BuildVersionHistory.plist</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="21010">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'"http://www.apple.com/DTDs/PropertyList-1.0.dtd"'</Sequence>
+                                    </SubSequence>
+                                    <SubSequence Position="2" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Template: Blank (2014-07-09 11:15)'</Sequence>
+                                    </SubSequence>
+                                    <SubSequence Position="3" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'M5.5.2-2120-1'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1000" ContainerType="ZIP">
+            <Description>Apple iWorks Numbers 09</Description>
+            <Files>
+                <File>
+                    <Path>index.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="300">
+                                <ByteSequence>
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="200">
+                                        <Sequence>'xmlns:ls="http://developer.apple.com/namespaces/ls" ls:version="92008102400"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="2000" ContainerType="ZIP">
+            <Description>Apple iWorks Pages 09</Description>
+            <Files>
+                <File>
+                    <Path>index.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="300">
+                                <ByteSequence>
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="200">
+                                        <Sequence>'xmlns:sl="http://developer.apple.com/namespaces/sl" sl:version="92008102400"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3000" ContainerType="ZIP">
+            <Description>Apple iWorks 14 Document</Description>
+            <Files>
+                <File>
+                    <Path>Metadata/Properties.plist</Path>
+                </File>
+                <File>
+                    <Path>Index/Document.iwa</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="300">
+                                <ByteSequence>
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="200">
+                                        <Sequence>12 03 01 00 05 18</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+        
+        <!--  Apple iWorks Keynote 09 (ZIP)-->
+        <FileFormatMapping signatureId="21000" Puid="fmt/646"/>
+        
+        <!--  iWork13 (ZIP)-->
+        <FileFormatMapping signatureId="21010" Puid="fmt/1187"/>
+    
+        <!--  Apple iWorks Numbers 09 (ZIP)-->
+        <FileFormatMapping signatureId="1000" Puid="fmt/825"/>
+        
+        <!--  Apple iWorks Pages 09 (ZIP)-->
+        <FileFormatMapping signatureId="2000" Puid="fmt/824"/>
+        
+        <!--  Apple iWorks 14 Document (ZIP)-->
+        <FileFormatMapping signatureId="3000" Puid="CHLdev/1"/>
+       
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>
