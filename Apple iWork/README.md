@@ -23,3 +23,5 @@ http://justsolve.archiveteam.org/wiki/IWork
 - iWork 2014 containerized contents again into ZIP file, but with new ".iwa" files. Structure for all Keynote, Pages, Numbers formats too identical to distiguish with current container identification syntax.
 
 - fmt/646 Apple iWork Keynote 09 already existed, used template to create signature for fmt/825	Apple iWork Numbers 09 & fmt/824	Apple iWork Pages 09
+
+I have also included a couple samples of password protected files made through the Pages app. Signature currently does not identify them.
