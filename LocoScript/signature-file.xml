@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="1" DateCreated="2019-11-23T21:40:59+00:00">
+  <InternalSignatureCollection>
+    <InternalSignature ID="1" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>4A4F590101</Sequence>
+          <DefaultShift>6</DefaultShift>
+          <Shift Byte="4A">5</Shift>
+          <Shift Byte="4F">4</Shift>
+          <Shift Byte="59">3</Shift>
+          <Shift Byte="01">1</Shift>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    <InternalSignature ID="2" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>4A4F590102</Sequence>
+          <DefaultShift>6</DefaultShift>
+          <Shift Byte="4A">5</Shift>
+          <Shift Byte="4F">4</Shift>
+          <Shift Byte="59">3</Shift>
+          <Shift Byte="01">2</Shift>
+          <Shift Byte="02">1</Shift>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    <InternalSignature ID="3" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>4A4F5901</Sequence>
+          <DefaultShift>5</DefaultShift>
+          <Shift Byte="4A">4</Shift>
+          <Shift Byte="4F">3</Shift>
+          <Shift Byte="59">2</Shift>
+          <Shift Byte="01">1</Shift>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="1">03</RightFragment>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="1">04</RightFragment>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    <InternalSignature ID="4" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>4A4F590106</Sequence>
+          <DefaultShift>6</DefaultShift>
+          <Shift Byte="4A">5</Shift>
+          <Shift Byte="4F">4</Shift>
+          <Shift Byte="59">3</Shift>
+          <Shift Byte="01">2</Shift>
+          <Shift Byte="06">1</Shift>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    <InternalSignature ID="5" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>444F430101</Sequence>
+          <DefaultShift>6</DefaultShift>
+          <Shift Byte="44">5</Shift>
+          <Shift Byte="4F">4</Shift>
+          <Shift Byte="43">3</Shift>
+          <Shift Byte="01">1</Shift>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    <InternalSignature ID="6" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>444F430103</Sequence>
+          <DefaultShift>6</DefaultShift>
+          <Shift Byte="44">5</Shift>
+          <Shift Byte="4F">4</Shift>
+          <Shift Byte="43">3</Shift>
+          <Shift Byte="01">2</Shift>
+          <Shift Byte="03">1</Shift>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    <InternalSignature ID="7" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>46494C01</Sequence>
+          <DefaultShift>5</DefaultShift>
+          <Shift Byte="46">4</Shift>
+          <Shift Byte="49">3</Shift>
+          <Shift Byte="4C">2</Shift>
+          <Shift Byte="01">1</Shift>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="1">01</RightFragment>
+          <RightFragment MaxOffset="0" MinOffset="0" Position="1">02</RightFragment>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+  </InternalSignatureCollection>
+  <FileFormatCollection>
+    <FileFormat ID="1" Name="LocoScript Document" PUID="dev/ls1" Version="1" MIMEType="">
+      <InternalSignatureID>1</InternalSignatureID>
+      <Extension/>
+    </FileFormat>
+    <FileFormat ID="2" Name="LocoScript Document" PUID="dev/ls2" Version="2" MIMEType="">
+      <InternalSignatureID>2</InternalSignatureID>
+      <Extension/>
+    </FileFormat>
+    <FileFormat ID="3" Name="LocoScript Document" PUID="dev/ls3" Version="3" MIMEType="">
+      <InternalSignatureID>3</InternalSignatureID>
+      <Extension/>
+    </FileFormat>
+    <FileFormat ID="4" Name="LocoScript Document" PUID="dev/ls4" Version="4" MIMEType="">
+      <InternalSignatureID>4</InternalSignatureID>
+      <Extension/>
+    </FileFormat>
+    <FileFormat ID="5" Name="LocoScript PC Document" PUID="dev/lspc" Version="" MIMEType="">
+      <InternalSignatureID>5</InternalSignatureID>
+      <Extension/>
+    </FileFormat>
+    <FileFormat ID="6" Name="LocoScript Professional Document" PUID="dev/lspro2" Version="2" MIMEType="">
+      <InternalSignatureID>6</InternalSignatureID>
+      <Extension/>
+    </FileFormat>
+    <FileFormat ID="7" Name="LocoFile Datafile" PUID="dev/lf" Version="" MIMEType="">
+      <InternalSignatureID>7</InternalSignatureID>
+      <Extension/>
+    </FileFormat>
+  </FileFormatCollection>
+</FFSignatureFile>
