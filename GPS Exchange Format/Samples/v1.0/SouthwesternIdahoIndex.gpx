@@ -1,0 +1,148 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="GPXContents.xsl"?>
+<gpx
+  xmlns="http://www.topografix.com/GPX/1/0"
+  version="1.0" creator="Wissenbach Map 2.1"
+  xmlns:wissenbach="http://www.cableone.net/cdwissenbach"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd
+                       http://www.cableone.net/cdwissenbach http://www.cableone.net/cdwissenbach/wissenbach.xsd">
+<name>Southwestern Idaho Index Map</name>
+<desc>This map is an index of Southwestern Idaho. With the exceptions of the cities shown, all of the waypoints designate the location of trail maps on the Southwestern Idaho Trail Maps web site. The URLs associated with the waypoints are the individual maps in GPX format.</desc>
+<author>Dave Wissenbach</author>
+<email>davewissenbach@yahoo.com</email>
+<url>http://www.cableone.net/cdwissenbach</url>
+<urlname>Southwestern Idaho Trail Maps</urlname>
+<time>2002-07-26T22:49:59Z</time>
+<keywords>Mountain Bike, Cross-country Ski, Hike, Boise, McCall, Idaho, Trails</keywords>
+<bounds maxlat="45.219006" minlon="-116.377131" minlat="43.244197" maxlon="-115.066517"></bounds>
+<wpt lat="44.929544" lon="-116.081558"><name>Ponderosa State Park</name>
+<cmt>PONDEROSA PARK</cmt>
+<desc>Ponderosa State Park covers most of a 1,000-acre peninsula that juts into Payette Lake, just outside McCall. The character of the park is molded by its diverse topography. It ranges from arid sagebrush flats to a lakeside trail; from flat, even ground to steep cliffs; and from dense forest to spongy marsh. Nature trails and dirt roads have been developed so visitors can enjoy these areas. Camping is available in the park and in nearby Lakeview Village.</desc>
+<url>http://www.cableone.net/cdwissenbach/PonderosaPark.gpx</url>
+<urlname>Ponderosa State Park</urlname>
+<sym>Park</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="44.248028" lon="-115.066517"><name>ELKMTN</name>
+<cmt>ELK MOUNTAIN</cmt>
+<desc>Elk Mountain Mountain Bike Loop at Stanley Lake Idaho. Moderate difficulty mountain bike loop, starting at Stanley Lake Creek trailhead. Stanley Lake Creek trail is handicapped accessible, consisting of compacted sand and grabel.</desc>
+<url>http://www.cableone.net/cdwissenbach/ElkMountainLoop.gpx</url>
+<urlname>Elk Mountain Loop at Stanley Lake</urlname>
+<sym>Trailhead</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="44.298142" lon="-116.116214"><ele>1549.174072</ele><name>Tripod Creek</name>
+<cmt>TRIPOD CREEK AREA</cmt>
+<desc><![CDATA[The Tripod Meadows are just west of the Smith's Ferry contains informal camping. Farther up the road is Sage Hen Reservoir, a popular fishing and camping spot. Tripod meadows is an excellent base for weekend mountain biking because of the proximity to Boise, Idaho and the vast network of logging roads fanning out from this place.]]></desc>
+<url>http://www.cableone.net/cdwissenbach/TripodCreek.gpx</url>
+<urlname>Tripod Creek Area</urlname>
+<sym>Campground</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="43.670422" lon="-116.182967"><name>Corrals</name>
+<cmt>Corrals Trail</cmt>
+<desc><![CDATA[This popular mountain bike loop of about 14 miles starts and ends at Camel's back park in the North End of Boise, Idaho. The route travels up Bogus Basin road, heads to trail 31, the Corrals trail, then drops into Hull's gulch and takes trail 28, the Crestline trail, back to the park. ]]></desc>
+<url>http://www.cableone.net/cdwissenbach/Corrals.gpx</url>
+<urlname>Corrals Trail on the Boise Front</urlname>
+<sym>Trailhead</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="43.862892" lon="-115.757450"><ele>1311.308716</ele><name>Mile Marker 44</name>
+<cmt>Mile Marker 44</cmt>
+<desc><![CDATA[Northeast of Idaho City, just past mile marker 44 on Idaho State Highway 21, this closed forest service road gently winds up the east side of the valley and eventually joins the Rabbit creek summit, or so I've been told. This trail was logged by a mountain bike. No parking available in winter. 
+
+]]></desc>
+<url>http://www.cableone.net/cdwissenbach/MileMarker44.gpx</url>
+<urlname>Mile Marker 44 near Idaho City</urlname>
+<sym>Trailhead</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="43.641689" lon="-116.247314"><name>Boise Greenbelt</name>
+<cmt>BOISE RIVER GREENBELT</cmt>
+<desc>The Boise river greenbelt extends from Lucky Peak Dam to Garrett lane at the west end of Garden City. The short hike starts at Willow Lane athletic park through a section of greenbelt which provides excellent viewing of wintering waterfowl. 
+
+</desc>
+<url>http://www.cableone.net/cdwissenbach/Greenbelt.gpx</url>
+<urlname>Boise River Greenbelt at Willow Lane Athletic Park</urlname>
+<sym>Park</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="43.991225" lon="-115.606153"><name>Gold Fork Park N Ski</name>
+<cmt>GOLD FORK</cmt>
+<desc>The Gold Fork Cross Country Ski Trail is located about 70 miles Northeast of Boise, Idaho, off of highway 21. This trail is part of the Idaho Park-n-Ski trail system, which requires a trail permit, which can be purchased at most sporting goods stores. The permit pays for trail grooming. This 5-mile loop of moderate difficulty is usually groomed for Skate-skiing. No dogs, but dogs are allowed at the whoop-em-up ski area just to the South.</desc>
+<url>http://www.cableone.net/cdwissenbach/GoldFork.gpx</url>
+<urlname>Gold Fork Park N Ski Area</urlname>
+<sym>Skiing Area</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="43.677914" lon="-116.104008"><name>Boise Front</name>
+<desc>The Boise Front is a large undeveloped area just North of Boise, Idaho. This area was used for spring sheep grazing by Brad Little until 2001. Some of this land is important winter range for deer and elk, and the region actually includes a few square miles of old-growth forest. </desc>
+<url>http://www.cableone.net/cdwissenbach/BoiseFront.gpx</url>
+<urlname>Boise Front Trail Network</urlname>
+<sym>Hunting Area</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="43.598592" lon="-116.147792"><ele>1109.123291</ele><name>Table Rock</name>
+<cmt>Table Rock</cmt>
+<desc>Hike or bike fromt the Old Idaho State Penitentiary to the cross on table rock 1000 feet above. Or take an alternate trail to the sandstone quarry. </desc>
+<url>http://www.cableone.net/cdwissenbach/TableRock.gpx</url>
+<urlname>Table Rock near Boise, Idaho</urlname>
+<sym>Scenic Area</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="43.244197" lon="-116.377131"><name>Swan Falls</name>
+<cmt>Swan Falls Power Plant</cmt>
+<desc>Swan Falls Power Plant. Hiking and mountain biking in the Snake River Canyon. The Canyon is closed to motor vehicles between the high-lift pumping station and celebration park!</desc>
+<url>http://www.cableone.net/cdwissenbach/SwanFalls.gpx</url>
+<urlname>Swan Falls</urlname>
+<sym>Park</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="43.763881" lon="-116.103992"><name>Bogus Basin Ski Area</name>
+<cmt>BOGUS BASIN</cmt>
+<desc>This map contains a cross-country ski trail and a few downhill ski trails from the Bogus Basin Ski Area.</desc>
+<url>http://www.cableone.net/cdwissenbach/BogusBasin.gpx</url>
+<urlname>Bogus Basin Ski Trails</urlname>
+<sym>Skiing Area</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="45.219006" lon="-115.936389"><name>Josephine Lake</name>
+<cmt>Josephine Lake</cmt>
+<desc>Josephine Lake is an easy trail located about 15 miles North of McCall,Idaho. Access to the trailhead is by four-wheel drive vehicle or mountain bike because the logging road which leads to the trailhead is in extremely poor condition and is not suitable for motor vehicles. Make this a longer hike by parking on Warren Wagon Road and hiking the entire distance.</desc>
+<url>http://www.cableone.net/cdwissenbach/Josephine.gpx</url>
+<urlname>Josephine Lake Trail</urlname>
+<sym>Trailhead</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="45.163542" lon="-115.840392"><name>Loon Lake</name>
+<cmt>Loon Lake</cmt>
+<desc>Ruby Meadows to Loon Lake. Also Chinook Campground to Loon Lake via the Secesh River footbridge. This area is good for backpacking, Mountain Biking, trail riding, and motorcycling. You may see moose or salmon or otters.</desc>
+<url>http://www.cableone.net/cdwissenbach/LoonLake.gpx</url>
+<urlname>Loon Lake</urlname>
+<sym>Fishing Area</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+<wpt lat="43.571806" lon="-116.114069"><name>Shaw Mountain</name>
+<cmt>Shaw Mountain</cmt>
+<desc>Shaw Mountain Mountain Bike Loop. This map shows a loop trail on the side of Shaw Mountain, just Southeast of Boise. This steep loop trail in the wildlife refuge is open to Mountain Bikers and cattle in the summer. Beautiful bird song in the spring.</desc>
+<url>http://www.cableone.net/cdwissenbach/ShawMountain.gpx</url>
+<urlname>Shaw Mountain</urlname>
+<sym>Trailhead</sym>
+<type>gpx index card</type>
+<wissenbach:layer>plan_log</wissenbach:layer>
+</wpt>
+</gpx>
