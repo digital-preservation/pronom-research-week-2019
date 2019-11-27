@@ -1,0 +1,34 @@
+glTF (GL Transmission Format)
+
+Version Number:
+1.0
+
+Extensions:
+gltf
+
+MIME-Type:
+application/json
+
+Description:
+glTF™ (GL Transmission Format) is a royalty-free specification for the efficient transmission and loading of 3D scenes and models by applications. It is an API-neutral runtime asset delivery format. glTF bridges the gap between 3D content creation tools and modern 3D applications by providing an efficient, extensible, interoperable format for the transmission and loading of 3D content. Binary glTF is a container format in which an entire glTF asset (JSON asset description, binary geometry, key frames, skins and images) can be stored in a single binary blob.
+
+The gltf contains a JSON format that must contain a top-level "asset" property. The "asset" property must contain a "version" property with a value equal to "1.0".
+
+Full specification of the format can be found at https://github.com/KhronosGroup/glTF/blob/master/specification/1.0/README.md
+
+A glTF Overview can be found at https://www.khronos.org/gltf
+
+Format Type:
+Model
+
+Vendor:
+Khronos Group
+https://www.khronos.org
+
+Example File Sources:
+valid_complex.gltf - https://github.com/KhronosGroup/glTF-Validator/blob/master/test/base/data/gltf/unused_objects.gltf (title has been changed and "version"'s value changed to "1.0")
+valid_minimal.gltf - https://github.com/KhronosGroup/glTF-Validator/blob/master/test/base/data/gltf/valid_full.gltf (title has been changed and "version"'s value changed to "1.0")
+invalid.gltf - https://github.com/KhronosGroup/glTF-Validator/blob/master/test/base/data/gltf/valid_ful.gltf ("version"'s value changed to "3.0")
+
+File Format identification signatures:
+See GLTF 1.0 signature.xml with dummy PUID PRS-fmt/1
