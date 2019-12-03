@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="202002" DateCreated="2019-12-03T07:25:51-07:00">
+  <InternalSignatureCollection>
+    <InternalSignature ID="1" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="40" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>3FE66666</Sequence>
+          <DefaultShift>5</DefaultShift>
+          <Shift Byte="3F">4</Shift>
+          <Shift Byte="E6">3</Shift>
+          <Shift Byte="66">1</Shift>
+          <LeftFragment MaxOffset="28" MinOffset="28" Position="1">0007</LeftFragment>
+          <LeftFragment MaxOffset="0" MinOffset="0" Position="2">02</LeftFragment>
+          <LeftFragment MaxOffset="0" MinOffset="0" Position="2">03</LeftFragment>
+          <LeftFragment MaxOffset="0" MinOffset="0" Position="3">00</LeftFragment>
+          <LeftFragment MaxOffset="4" MinOffset="4" Position="4">00</LeftFragment>
+          <LeftFragment MaxOffset="0" MinOffset="0" Position="5">00</LeftFragment>
+          <LeftFragment MaxOffset="0" MinOffset="0" Position="5">20</LeftFragment>
+          <LeftFragment MaxOffset="0" MinOffset="0" Position="6">0002</LeftFragment>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="Painter RIFF" PUID="CHLdev/1" Version="" MIMEType="">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>rif</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>
