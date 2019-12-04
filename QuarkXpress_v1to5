@@ -1,0 +1,17 @@
+Suggestion: new PUID for QuarkXpress versions 1 to 5
+The Quarkxpress extensions QXD and QXT are specific to versions 1 to 5 (they are not used in later versions)
+
+Format name - Quark Xpress versions 1 to 5 
+PUID - A new PUID should be created for Quark Xpress versions 1 to 5 alone (As for now, some file extensions are included in x-fmt/182, fmt/652, fmt/685, fmt/651).
+Extensions - QXP, QXT, QXL
+MIME/Media Type: https://www.iana.org/assignments/media-types/application/vnd.Quark.QuarkXPress . The entry is from 2002!
+Description -  
+QXD: Quark Xpress document file (Obsolete, Versions 1 to 5). Binary. From version 6 on the extension QXP (Quark Xpress document file) is used. 
+QXT: Quark Xpress template (Obsolete, Versions 1 to 5). From version 6 on the extension QPT is used.
+QXL: Quark Xpress library file
+QWD: Quark Xpress web document
+QWT: Quark Xpress web document template
+QXB: Quark Xpress book
+Format type - Desktop publishing
+Vendor - Quark, Inc
+File format identification signatures for version 4: IIXPR3A A DC or MMXPR3A A DC. “II” stands for “created on an Intel computer”, “MM” stands for “created on a Motorola computer”. (Signatures for versions 1 to 3 and for version 5 not found)
