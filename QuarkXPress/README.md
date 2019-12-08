@@ -21,4 +21,11 @@ Two signature options are being suggested. A grouped signature based on version 
 ### Single Versions Signature
 - Based on offsets from LIBQXP, notes here: http://fileformats.archiveteam.org/wiki/QuarkXPress
 
+Decision was made to leave off the first two bytes of files, "0000" as samples were found with "FF" as first byte but QuarkXPress had no problems opening file.
+
+Aditional samples were tested from:
+- https://github.com/qxpjs/GettingStarted/
+- https://www.online-convert.com/file-format/qxp
+- https://github.com/yginieys/quark
+
 Current version of these signatures leave out QuarkXPress Book (.QXB), Library (.QXL) & Article (.QCD) formats. 
